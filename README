@@ -1,0 +1,10 @@
+Date Completed: Apr 2011
+Language: C++  
+Development Environment: Dev C++   	
+Important features: Contains 2D graphic display (using PDCurses.lib);
+                    template for stacks, template for queues
+
+Simulation and visual display of the solution to the game Towers of Hanoi 
+using stacks and queues (without the use of recursion). 
+
+Solutions for 3 to 9 disks and any starting and ending peg can be simulated.
